@@ -1,0 +1,4 @@
+PORT SCANNING TOOL
+
+To scan all ports in a range at an ip:  python scan.py -a <ip> <lower bound port> <upper bound port>
+To scan ports with commonly exploited services: python scan.py -v <ip>

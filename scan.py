@@ -1,6 +1,5 @@
 import socket
 import argparse
-import sys
 
 def scan_port(ip, port):
     try:
